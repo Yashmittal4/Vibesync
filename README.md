@@ -1,6 +1,6 @@
 # VibeSync: Emotion-Driven Music Recommendation System
 
-![VibeSync Logo](../Images/logo.jpg)
+![VibeSync Logo](./Images/logo.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -14,7 +14,7 @@
 - [Future Scope](#future-scope)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+- [Model Prediction](#Model-Prediction)
 
 ## Overview
 
@@ -65,10 +65,10 @@ The project utilizes the [Spotify Dataset from Kaggle](https://www.kaggle.com/da
 
 ## Visualization
 
-![Clusters of Songs](../Images/clusters_of_songs.png)
+![Clusters of Songs](./Images/clusters_of_songs.png)
 *Figure 1: Visualization of song clusters using PCA*
 
-![Clusters of Genres](../Images/clusters_of_genres.png)
+![Clusters of Genres](./Images/clusters_of_genres.png)
 *Figure 2: t-SNE visualization of music genres*
 
 ## Real-World Impact
